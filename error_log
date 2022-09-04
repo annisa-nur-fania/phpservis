@@ -1,0 +1,163 @@
+[16-Aug-2021 14:49:10 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/servisanisa21/public_html/wp-includes/class-wp-query.php on line 782
+[21-Aug-2021 06:02:36 UTC] PHP Fatal error:  Access level to Porto_Elementor_Section::get_html_tag() must be protected (as in class Elementor\Element_Section) or weaker in /home/servisanisa21/public_html/wp-content/plugins/porto-functionality/elementor/elements/porto_section.php on line 503
+[21-Aug-2021 06:02:50 UTC] PHP Fatal error:  Access level to Porto_Elementor_Section::get_html_tag() must be protected (as in class Elementor\Element_Section) or weaker in /home/servisanisa21/public_html/wp-content/plugins/porto-functionality/elementor/elements/porto_section.php on line 503
+[21-Aug-2021 06:05:20 UTC] PHP Fatal error:  Access level to Porto_Elementor_Section::get_html_tag() must be protected (as in class Elementor\Element_Section) or weaker in /home/servisanisa21/public_html/wp-content/plugins/porto-functionality/elementor/elements/porto_section.php on line 503
+[21-Aug-2021 06:05:37 UTC] PHP Fatal error:  Access level to Porto_Elementor_Section::get_html_tag() must be protected (as in class Elementor\Element_Section) or weaker in /home/servisanisa21/public_html/wp-content/plugins/porto-functionality/elementor/elements/porto_section.php on line 503
+[21-Aug-2021 06:08:50 UTC] PHP Fatal error:  Access level to Porto_Elementor_Section::get_html_tag() must be protected (as in class Elementor\Element_Section) or weaker in /home/servisanisa21/public_html/wp-content/plugins/porto-functionality/elementor/elements/porto_section.php on line 503
+[21-Aug-2021 06:10:08 UTC] PHP Fatal error:  Access level to Porto_Elementor_Section::get_html_tag() must be protected (as in class Elementor\Element_Section) or weaker in /home/servisanisa21/public_html/wp-content/plugins/porto-functionality/elementor/elements/porto_section.php on line 503
+[21-Aug-2021 06:11:06 UTC] PHP Fatal error:  Access level to Porto_Elementor_Section::get_html_tag() must be protected (as in class Elementor\Element_Section) or weaker in /home/servisanisa21/public_html/wp-content/plugins/porto-functionality/elementor/elements/porto_section.php on line 503
+[21-Aug-2021 06:11:39 UTC] PHP Fatal error:  Access level to Porto_Elementor_Section::get_html_tag() must be protected (as in class Elementor\Element_Section) or weaker in /home/servisanisa21/public_html/wp-content/plugins/porto-functionality/elementor/elements/porto_section.php on line 503
+[21-Aug-2021 06:37:13 UTC] PHP Fatal error:  Access level to Porto_Elementor_Section::get_html_tag() must be protected (as in class Elementor\Element_Section) or weaker in /home/servisanisa21/public_html/wp-content/plugins/porto-functionality/elementor/elements/porto_section.php on line 468
+[21-Aug-2021 06:37:20 UTC] PHP Fatal error:  Access level to Porto_Elementor_Section::get_html_tag() must be protected (as in class Elementor\Element_Section) or weaker in /home/servisanisa21/public_html/wp-content/plugins/porto-functionality/elementor/elements/porto_section.php on line 468
+[21-Aug-2021 06:38:08 UTC] PHP Fatal error:  Access level to Porto_Elementor_Section::get_html_tag() must be protected (as in class Elementor\Element_Section) or weaker in /home/servisanisa21/public_html/wp-content/plugins/porto-functionality/elementor/elements/porto_section.php on line 468
+[22-Aug-2021 14:24:56 UTC] PHP Warning:  Illegal string offset 'icon_color_bg' in /home/servisanisa21/public_html/wp-content/plugins/porto-functionality/shortcodes/templates/porto_info_box.php on line 3
+[01-Aug-2022 16:33:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$dftr' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/servisanisa21/public_html/api.php on line 6
+[01-Aug-2022 16:33:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$dftr' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/servisanisa21/public_html/api.php on line 6
+[01-Aug-2022 16:34:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$dftr' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/servisanisa21/public_html/api.php on line 6
+[01-Aug-2022 16:35:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$dftr' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/servisanisa21/public_html/api.php on line 6
+[01-Aug-2022 16:36:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$dftr' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/servisanisa21/public_html/api.php on line 6
+[01-Aug-2022 16:38:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$dftr' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/servisanisa21/public_html/api.php on line 6
+[01-Aug-2022 16:38:45 Asia/Jakarta] PHP Notice:  Undefined variable: mhs in /home/servisanisa21/public_html/dftr.php on line 14
+[01-Aug-2022 16:38:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function get_dftr() on null in /home/servisanisa21/public_html/dftr.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/servisanisa21/public_html/dftr.php on line 14
+[02-Aug-2022 08:58:13 Asia/Jakarta] PHP Notice:  Undefined variable: mhs in /home/servisanisa21/public_html/dftr.php on line 14
+[02-Aug-2022 08:58:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function get_dftr() on null in /home/servisanisa21/public_html/dftr.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/servisanisa21/public_html/dftr.php on line 14
+[02-Aug-2022 08:59:16 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/dftr.php on line 2
+[02-Aug-2022 08:59:16 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/dftr.php on line 2
+[02-Aug-2022 08:59:18 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/dftr.php on line 2
+[02-Aug-2022 08:59:18 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/dftr.php on line 2
+[02-Aug-2022 08:59:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting ';' or ',' in /home/servisanisa21/public_html/dftr.php on line 3
+[02-Aug-2022 08:59:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting ';' or ',' in /home/servisanisa21/public_html/dftr.php on line 3
+[02-Aug-2022 08:59:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting ';' or ',' in /home/servisanisa21/public_html/dftr.php on line 3
+[02-Aug-2022 09:02:39 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/dftr.php on line 3
+[02-Aug-2022 09:02:39 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/dftr.php on line 3
+[02-Aug-2022 09:02:57 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/dftr.php on line 3
+[02-Aug-2022 09:02:57 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/dftr.php on line 3
+[02-Aug-2022 09:03:41 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/dftr.php on line 3
+[02-Aug-2022 09:03:41 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/dftr.php on line 3
+[02-Aug-2022 09:08:31 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:08:31 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:09:46 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:09:46 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:10:03 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:10:03 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:10:06 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:10:06 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:10:07 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:10:07 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:10:25 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:10:25 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:10:33 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:10:33 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:13 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:13 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:25 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:25 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:38 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:38 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:39 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:39 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:40 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:40 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:46 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:46 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:47 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:47 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:48 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:48 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:49 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:49 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:58 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:58 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:59 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:11:59 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:12:08 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:12:08 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:12:09 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:12:09 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:12:10 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:12:10 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:12:10 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:12:10 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:12:11 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:12:11 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:12:22 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:12:22 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:13:28 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:13:28 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:13:29 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:13:29 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:13:30 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:13:30 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:13:56 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:13:56 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:13:57 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:13:57 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 3
+[02-Aug-2022 09:14:10 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 2
+[02-Aug-2022 09:14:10 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 2
+[02-Aug-2022 09:14:12 Asia/Jakarta] PHP Warning:  require_once(methods.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/mahasiswa.php on line 2
+[02-Aug-2022 09:14:12 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methods.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/mahasiswa.php on line 2
+[02-Aug-2022 09:54:08 Asia/Jakarta] PHP Notice:  Undefined variable: mhs in /home/servisanisa21/public_html/mahasiswa.php on line 10
+[02-Aug-2022 09:54:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function get_bkl() on null in /home/servisanisa21/public_html/mahasiswa.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/servisanisa21/public_html/mahasiswa.php on line 10
+[02-Aug-2022 09:54:10 Asia/Jakarta] PHP Notice:  Undefined variable: mhs in /home/servisanisa21/public_html/mahasiswa.php on line 10
+[02-Aug-2022 09:54:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function get_bkl() on null in /home/servisanisa21/public_html/mahasiswa.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/servisanisa21/public_html/mahasiswa.php on line 10
+[02-Aug-2022 09:54:16 Asia/Jakarta] PHP Notice:  Undefined variable: mhs in /home/servisanisa21/public_html/mahasiswa.php on line 14
+[02-Aug-2022 09:54:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function get_bkll() on null in /home/servisanisa21/public_html/mahasiswa.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/servisanisa21/public_html/mahasiswa.php on line 14
+[02-Aug-2022 09:54:19 Asia/Jakarta] PHP Notice:  Undefined variable: mhs in /home/servisanisa21/public_html/mahasiswa.php on line 14
+[02-Aug-2022 09:54:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function get_bkll() on null in /home/servisanisa21/public_html/mahasiswa.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/servisanisa21/public_html/mahasiswa.php on line 14
+[02-Aug-2022 09:54:50 Asia/Jakarta] PHP Notice:  Undefined variable: mhs in /home/servisanisa21/public_html/bengkel.php on line 14
+[02-Aug-2022 09:54:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function get_bkll() on null in /home/servisanisa21/public_html/bengkel.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/servisanisa21/public_html/bengkel.php on line 14
+[02-Aug-2022 09:55:42 Asia/Jakarta] PHP Notice:  Undefined variable: mhs in /home/servisanisa21/public_html/bengkel.php on line 10
+[02-Aug-2022 09:55:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function get_bkl() on null in /home/servisanisa21/public_html/bengkel.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/servisanisa21/public_html/bengkel.php on line 10
+[02-Aug-2022 09:55:46 Asia/Jakarta] PHP Notice:  Undefined variable: mhs in /home/servisanisa21/public_html/bengkel.php on line 10
+[02-Aug-2022 09:55:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function get_bkl() on null in /home/servisanisa21/public_html/bengkel.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/servisanisa21/public_html/bengkel.php on line 10
+[02-Aug-2022 09:55:49 Asia/Jakarta] PHP Notice:  Undefined variable: mhs in /home/servisanisa21/public_html/bengkel.php on line 10
+[02-Aug-2022 09:55:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function get_bkl() on null in /home/servisanisa21/public_html/bengkel.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/servisanisa21/public_html/bengkel.php on line 10
+[04-Aug-2022 10:20:38 Asia/Jakarta] PHP Warning:  require_once(methodperbaiakan.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/perbaikan.php on line 2
+[04-Aug-2022 10:20:38 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methodperbaiakan.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/perbaikan.php on line 2
+[04-Aug-2022 10:20:48 Asia/Jakarta] PHP Warning:  require_once(methodperbaiakan.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/perbaikan.php on line 2
+[04-Aug-2022 10:20:48 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methodperbaiakan.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/perbaikan.php on line 2
+[04-Aug-2022 10:21:35 Asia/Jakarta] PHP Warning:  require_once(methodperbaiakan.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/perbaikan.php on line 2
+[04-Aug-2022 10:21:35 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methodperbaiakan.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/perbaikan.php on line 2
+[04-Aug-2022 10:21:50 Asia/Jakarta] PHP Warning:  require_once(methodperbaiakan.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/perbaikan.php on line 2
+[04-Aug-2022 10:21:50 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methodperbaiakan.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/perbaikan.php on line 2
+[04-Aug-2022 10:22:44 Asia/Jakarta] PHP Warning:  require_once(methodperbaikan.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/perbaikan.php on line 2
+[04-Aug-2022 10:22:44 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methodperbaikan.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/perbaikan.php on line 2
+[04-Aug-2022 10:22:45 Asia/Jakarta] PHP Warning:  require_once(methodperbaikan.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/perbaikan.php on line 2
+[04-Aug-2022 10:22:45 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methodperbaikan.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/perbaikan.php on line 2
+[04-Aug-2022 10:22:45 Asia/Jakarta] PHP Warning:  require_once(methodperbaikan.php): failed to open stream: No such file or directory in /home/servisanisa21/public_html/perbaikan.php on line 2
+[04-Aug-2022 10:22:45 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'methodperbaikan.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/servisanisa21/public_html/perbaikan.php on line 2
+[15-Aug-2022 19:49:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/servisanisa21/public_html/methodmerek.php on line 37
+[19-Aug-2022 11:19:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/servisanisa21/public_html/methodmerek.php on line 37
+[19-Aug-2022 11:19:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/servisanisa21/public_html/methodmerek.php on line 37
+[31-Aug-2022 17:27:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/servisanisa21/public_html/methodjenisperbaikan.php on line 17
+[31-Aug-2022 17:27:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/servisanisa21/public_html/methodjenisperbaikan.php on line 17
